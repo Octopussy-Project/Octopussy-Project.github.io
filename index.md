@@ -18,9 +18,9 @@
   
 # News
 
-## 2019
+## 2021
 
-* 2019-10-xx Moving Octopussy website to Github Pages
+* 2021-10-12 Moving Octopussy website to Github Pages
 
 ## 2017
 
